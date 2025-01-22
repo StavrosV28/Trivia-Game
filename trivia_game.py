@@ -24,7 +24,7 @@ def display_questions(questions):
 
 
 
-
+# For testing
 def main():
     file_path = 'questionsdb.json'
     questions = load_questions(file_path)
