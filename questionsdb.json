@@ -1,0 +1,605 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In the &quot;Call Of Duty: Zombies&quot; map &quot;Moon&quot;, there is a secondary called the QED. What does QED stand for?",
+      "correct_answer": "Quantum Entanglement Device",
+      "incorrect_answers": [
+        "Quad Ectoplasmic Driver",
+        "Question Every Dog",
+        "Quality Edward Device"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "What system was &quot;Touhou: Highly Responsive to Prayers&quot; released on?",
+      "correct_answer": "PC-98",
+      "incorrect_answers": [
+        "OSX 10.9.5",
+        "Windows ME",
+        "Windows 98"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Which of these video game engines was made by the company Epic Games?",
+      "correct_answer": "Unreal",
+      "incorrect_answers": [
+        "Unity",
+        "Game Maker: Studio",
+        "Cry Engine"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In what year were screenshots added to Steam?",
+      "correct_answer": "2011",
+      "incorrect_answers": [
+        "2010",
+        "2008",
+        "2009"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "What was the nickname of the original model for Half-Life&#039;s protagonist Gordon Freeman?",
+      "correct_answer": "Ivan the Space Biker",
+      "incorrect_answers": [
+        "Gordon the Space Biker",
+        "Ivan the Alien Biker",
+        "Gordon the Alien Biker"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "What is Pikachu&#039;s National Pok&eacute;Dex Number?",
+      "correct_answer": "#025",
+      "incorrect_answers": [
+        "#001",
+        "#031",
+        "#109"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "What character is NOT apart of the Grand Theft Auto series?",
+      "correct_answer": "Michael Cardenas",
+      "incorrect_answers": [
+        "Packie McReary",
+        "Tommy Vercetti",
+        "Lester Crest"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In the &quot;Worms&quot; series of video games, which of these weapons is affected by wind?",
+      "correct_answer": "Bazooka",
+      "incorrect_answers": [
+        "Grenade",
+        "Air Strike",
+        "Mortar"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In Pokemon Diamond, Pearl and Platinum, where can a Munchlax be found?",
+      "correct_answer": "Honey Trees",
+      "incorrect_answers": [
+        "Trading with an NPC",
+        "Grass on Route 209",
+        "Wayward Cave"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "How many different notes is the tune, &quot;Song of Healing&quot;, comprised of in &quot;The Legend of Zelda: Majora&#039;s Mask&quot;?",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "4",
+        "1",
+        "6"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Half-Life by Valve uses the GoldSrc game engine, which is a highly modified version of what engine?",
+      "correct_answer": "Quake Engine",
+      "incorrect_answers": [
+        "Doom Engine",
+        "id Engine",
+        "Source Engine"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "In Left 4 Dead, what is the character Bill&#039;s last name?",
+      "correct_answer": "Overbeck",
+      "incorrect_answers": [
+        "Fish",
+        "Roberts",
+        "Stevenson"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Which Elite Four member from the first generation of Pok&eacute;mon became the champion in the next generation?",
+      "correct_answer": "Lance",
+      "incorrect_answers": [
+        "Agatha",
+        "Bruno",
+        "Lorelei"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In the beta version of the 1986 game &quot;The Legend of Zelda&quot;, players have the choice between a sword and what other item?",
+      "correct_answer": "Boomerang ",
+      "incorrect_answers": [
+        "Spear",
+        "Slingshot",
+        "Crossbow"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "What is the boss round featured in the &quot;Call Of Duty: Zombies&quot; map &quot;Five&quot;?",
+      "correct_answer": "The Pentagon Thief",
+      "incorrect_answers": [
+        "Hellhounds",
+        "Jumping Jacks",
+        "Napalm Zombie"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "Which game won the &quot;Games for Impact&quot; award in The Game Awards 2015?",
+      "correct_answer": "Life is Strange",
+      "incorrect_answers": [
+        "Ori and the Blind Forest",
+        "Rocket League",
+        "Metal Gear Solid V: The Phantom Pain"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Which game did NOT get financed via Crowdfunding?",
+      "correct_answer": "Enter the Gungeon",
+      "incorrect_answers": [
+        "Town of Salem",
+        "Undertale",
+        "Tower Unite"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "Along with Gabe Newell, who co-founded Valve?",
+      "correct_answer": "Mike Harrington",
+      "incorrect_answers": [
+        "Robin Walker",
+        "Marc Laidlaw",
+        "Stephen Bahl"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "What year did the game &quot;Overwatch&quot; enter closed beta?",
+      "correct_answer": "2015",
+      "incorrect_answers": [
+        "2013",
+        "2011",
+        "2016"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "Which operation in &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; introduced the &quot;Skyscraper&quot; map?",
+      "correct_answer": "Red Crow",
+      "incorrect_answers": [
+        "Velvet Shell",
+        "Skull Rain",
+        "Dust Line"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In the first Left 4 Dead, you can play as either of these four characters.",
+      "correct_answer": "Francis, Bill, Zoey, and Louis",
+      "incorrect_answers": [
+        "Bender, Andrew, Allison, and Brian",
+        "Coach, Ellis, Nick, and Rochelle",
+        "Harry, Ron, Hermione and Dumbledore"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "Which weapon that was cut from the game &quot;Half Life 2&quot; was going to replace the crowbar?",
+      "correct_answer": "Ice Axe",
+      "incorrect_answers": [
+        "Fire Axe",
+        "Wrench",
+        "Hunting Knife"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "What mainly favored rifle is used by the Terrorists in Counter Strike: Global Offensive?",
+      "correct_answer": "AK-47",
+      "incorrect_answers": [
+        "AK-74",
+        "M4A4",
+        "CZ-75 AUTO"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In the MMO RPG &quot;Realm of the Mad God&quot;, what class is known for having the highest possible defense?",
+      "correct_answer": "The Knight",
+      "incorrect_answers": [
+        "The Wizard",
+        "The Archer",
+        "The Warrior"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "What was the game &quot;Galaga&quot; was a sequel to?",
+      "correct_answer": "Galaxian",
+      "incorrect_answers": [
+        "Galactica",
+        "Space Invaders",
+        "Galactic Wars"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "What is the name of the final boss in Turok: Dinosaur Hunter?",
+      "correct_answer": "The Campaigner",
+      "incorrect_answers": [
+        "The Primagen",
+        "Oblivion",
+        "Lord Tyrannus"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In &quot;Call of Duty: Black Ops III&quot; Zombies, what does completing all the main easter eggs reward you with?",
+      "correct_answer": "1,000,000 XP",
+      "incorrect_answers": [
+        "Juggernog at the start of each game",
+        "50 Liquid Diviniums",
+        "All three options."
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": " Which of these champions from the MOBA &#039;League of Legends&#039; is NOT a Yordle?",
+      "correct_answer": "Annie",
+      "incorrect_answers": [
+        "Veigar",
+        "Tristana",
+        "Lulu"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "Which football player is featured on the international cover version of the video game FIFA 16?",
+      "correct_answer": "Lionel Messi",
+      "incorrect_answers": [
+        "Cristiano Ronaldo",
+        "Wayne Rooney",
+        "David Beckham"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In the 2000 video game &quot;Crimson Skies,&quot; what was the name of the protagonists&#039; zeppelin?",
+      "correct_answer": "Pandora",
+      "incorrect_answers": [
+        "Helios",
+        "Icarus",
+        "Orion"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Pok&eacute;mon Go is a location-based augmented reality game developed and published by which company?",
+      "correct_answer": "Niantic",
+      "incorrect_answers": [
+        "Rovio",
+        "Zynga",
+        "Supercell"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In the game &quot;Red Dead Redemption&quot;, what is the name of John Marston&#039;s dog?",
+      "correct_answer": "Rufus",
+      "incorrect_answers": [
+        "Rutus",
+        "Finn",
+        "Apollo"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "How many Star Spirits do you rescue in the Nintendo 64 video game &quot;Paper Mario&quot;?",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "5",
+        "10",
+        "12"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "What is the maximum HP in Terraria?",
+      "correct_answer": "500",
+      "incorrect_answers": [
+        "400",
+        "1000",
+        "100"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "According to Toby Fox, what was the method to creating the initial tune for Megalovania?",
+      "correct_answer": "Singing into a Microphone",
+      "incorrect_answers": [
+        "Playing a Piano",
+        "Using a Composer Software",
+        "Listened to birds at the park"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "Which country is featured in Ace Combat 5: The Unsung War?",
+      "correct_answer": "Osea",
+      "incorrect_answers": [
+        "Aurelia",
+        "Australia",
+        "Japan"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "Danganronpa Another Episode: Ultra Despair Girls is set after which Danganronpa game?",
+      "correct_answer": "Danganronpa: Trigger Happy Havoc",
+      "incorrect_answers": [
+        "Danganronpa 2: Goodbye Despair",
+        "Danganronpa V3: Killing Harmony",
+        "Danganronpa 3: The End of Hope&#039;s Peak High School"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "Which of these games was the earliest known first-person shooter with a known time of publication?",
+      "correct_answer": "Spasim",
+      "incorrect_answers": [
+        "Doom",
+        "Wolfenstein",
+        "Quake"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "What is the name of the main healing item in Dark Souls?",
+      "correct_answer": "Estus Flask",
+      "incorrect_answers": [
+        "Health Potion",
+        "Orange Juice",
+        "Ashen Flask"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "What is the name of the City in Saints Row The Third?",
+      "correct_answer": "Steelport",
+      "incorrect_answers": [
+        "Stilwater",
+        "Carcer",
+        "Liberty"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "If a &quot;360 no-scope&quot; is one full rotation before shooting, how many rotations would a &quot;1080 no-scope&quot; be?",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "4",
+        "2",
+        "5"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "In Diablo lore, this lesser evil spawned from one of the seven heads of Tathamet, and was known as the Maiden of Anguish.",
+      "correct_answer": "Andariel",
+      "incorrect_answers": [
+        "Valla",
+        "Malthael",
+        "Kashya"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "&quot;Exile&quot; and &quot;Revelations&quot; were the third and fourth installments of which PC game series?",
+      "correct_answer": "Myst",
+      "incorrect_answers": [
+        "Shivers",
+        "Doom",
+        "Tropico"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In vanilla Minecraft, you can make armor out of all BUT which of the following?",
+      "correct_answer": "Emeralds",
+      "incorrect_answers": [
+        "Diamonds",
+        "Iron",
+        "Leather"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "What was the name of the hero in the 80s animated video game &#039;Dragon&#039;s Lair&#039;?",
+      "correct_answer": "Dirk the Daring",
+      "incorrect_answers": [
+        "Arthur",
+        "Sir Toby Belch",
+        "Guy of Gisbourne"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Which game did &quot;Sonic The Hedgehog&quot; make his first appearance in?",
+      "correct_answer": "Rad Mobile",
+      "incorrect_answers": [
+        "Sonic The Hedgehog",
+        "Super Mario 64",
+        "Mega Man"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "The protagonist in the game &quot;Cave Story&quot; is named",
+      "correct_answer": "Quote",
+      "incorrect_answers": [
+        "Kazuma",
+        "Curly",
+        "Arthur"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In &quot;Undertale&quot;, how many main endings are there?",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "2",
+        "5",
+        "13"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Which franchise does the creature &quot;Slowpoke&quot; originate from?",
+      "correct_answer": "Pokemon",
+      "incorrect_answers": [
+        "Dragon Ball",
+        "Sonic The Hedgehog",
+        "Yugioh"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "Which was the first M-rated video game developed by Squaresoft/Square Enix?",
+      "correct_answer": "Parasite Eve",
+      "incorrect_answers": [
+        "Final Fantasy VIII",
+        "Front Mission",
+        "Vagrant Story"
+      ]
+    }
+  ]
+}
