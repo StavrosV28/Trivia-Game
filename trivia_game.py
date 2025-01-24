@@ -46,16 +46,12 @@ def display_questions(questions):
     
         
     
-        
-
-
 # For testing
 def main():
     file_path = 'questionsdb.json'
     questions = load_questions(file_path)
     random.shuffle(questions)
     welcome = welcome_UI()
-    
     
     welcome # Displays Welcome UI
     display_questions(questions) # Shows the questions and their order
