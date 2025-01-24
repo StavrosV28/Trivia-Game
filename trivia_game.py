@@ -16,15 +16,17 @@ def load_questions(file_path):
         questions = json.load(file)
     return questions['results']
 
-
+# Displays questions along with their answer choices
 def display_questions(questions):
     # Display the questions on the command line
     for idx, question_data  in enumerate(questions, start=1):
         print(f'Question {idx}: {question_data['question']}')
         answers = question_data['incorrect_answers'] + [question_data['correct_answer']]
+        
         # Display answer choices to user on command line
         for i, option in enumerate(answers, start=1):
             print(f'{i}: {option}')
+            
         # Checking if the user enters a number out of range of the answer choices
         while True:
             try:
@@ -45,18 +47,16 @@ def display_questions(questions):
         
     
         
-            
-        
-    
-    
-    
 
 
 # For testing
 def main():
     file_path = 'questionsdb.json'
     questions = load_questions(file_path)
+    random.shuffle(questions)
     welcome = welcome_UI()
+    
+    
     welcome # Displays Welcome UI
     display_questions(questions) # Shows the questions and their order
     
