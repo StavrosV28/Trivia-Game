@@ -56,21 +56,21 @@ def display_questions(questions):
         # Check if answer is correct that the user entered.
         if answers[player_answer - 1] == question_data['correct_answer']:
             print('Correct Answer...On to the next!')
+            # Update players score as they progress through
             if question_difficulty == 'easy':
                 player_score += 3
-                print(f'You gained 3 points')
+                print(f'You gained 3 points. Your current score is: {player_score}')
                 print()
             elif question_difficulty == 'medium':
                 player_score += 5
-                print('You gained points')
+                print(f'You gained 5 points. Your current score is: {player_score}')
                 print()
             elif question_difficulty == 'hard':
                 player_score += 10
-                print('You gained 10 points')
+                print(f'You gained 10 points. Your current score is: {player_score}')
                 print()
         else: 
             print(f'Incorrect! The correct answer was {question_data['correct_answer']}.')
-
         
     
 # For testing
