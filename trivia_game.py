@@ -5,9 +5,14 @@ import random
 # Just a message to start the game up and introduce the rules etc.
 def welcome_UI():
     print('Welcome to the best trivia game on earth!')
+    print()
     print('These questions will be based on video games.')
-    print('There are 3 types of questions. Easy, Medium, and Hard.')
+    print()
+    print('There are 3 types of question difficulties. Easy, Medium, and Hard.')
+    print()
     print('Easy = 5 pts, Medium = 10 pts, and Hard = 15 pts')
+    print()
+    
 
 
 # Load the questions from the JSON file
@@ -42,9 +47,8 @@ def display_questions(questions):
         if answers[player_answer - 1] == question_data['correct_answer']:
             print('Correct Answer...On to the next!')
         else: 
-            print('Incorrect! Next question please.')
+            print(f'Incorrect! The correct answer was {question_data['correct_answer']}.')
     
-        
     
 # For testing
 def main():
@@ -53,8 +57,22 @@ def main():
     random.shuffle(questions)
     welcome = welcome_UI()
     
+    # Asking user to see how many questions they would like to answer from the database of questions.
+    while True:
+        try:
+            questions_num = int(input(f'How many questions would you like to answer? (1-{len(questions)}): '))
+            if 1 <= questions_num <= len(questions):
+                break
+            else:
+                print(f'Please enter a number between 1 through {len(questions)}')
+        except ValueError:
+            print('Out of range! Please enter a valid range.')
+    
+    selected_questions = questions[:questions_num]
+    
     welcome # Displays Welcome UI
-    display_questions(questions) # Shows the questions and their order
+    display_questions(selected_questions) # Shows the questions and their order
+    print('Thanks for playing!')
     
     
 if __name__ == '__main__':
