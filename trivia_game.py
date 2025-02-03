@@ -1,5 +1,6 @@
 import json
 import random
+import html
 
 
 # Just a message to start the game up and introduce the rules etc.
@@ -17,7 +18,7 @@ def welcome_UI():
 
 # Load the questions from the JSON file
 def load_questions(file_path):
-    with open(file_path, 'r')as file:
+    with open(file_path, 'r', encoding='utf-8') as file:
         questions = json.load(file)
     return questions['results']
     
@@ -25,19 +26,18 @@ def load_questions(file_path):
 # Displays questions along with their answer choices
 def display_questions(questions):
     player_score = 0
-    difficulty_level = {
-        'easy': 3,
-        'medium': 5,
-        'hard': 10
-    }
     
     # Display the questions on the command line
     for index, question_data  in enumerate(questions, start=1):
-        print(f'Question {index}: {question_data['question']}')
-        answers = question_data['incorrect_answers'] + [question_data['correct_answer']]
+        # question_text will decode the HTML entities from the JSON file
+        question_text = html.unescape(question_data['question'])
         
+        print(f'Question {index}: {question_text}')
+        
+        answers = question_data['incorrect_answers'] + [question_data['correct_answer']]
+        answers_text = html.unescape(answers)
         # Display answer choices to user on command line
-        for i, option in enumerate(answers, start=1):
+        for i, option in enumerate(answers_text, start=1):
             print(f'{i}: {option}')
         
         question_difficulty = question_data['difficulty']
@@ -71,8 +71,10 @@ def display_questions(questions):
                 print()
         else: 
             print(f'Incorrect! The correct answer was {question_data['correct_answer']}.')
+            
+    print(f'Your total score was: {player_score}')
         
-    
+        
 # For testing
 def main():
     file_path = 'questionsdb.json'
