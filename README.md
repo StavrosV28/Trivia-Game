@@ -11,3 +11,4 @@ CLI Trivia Game
 
 **What I plan to add:**
 - Create a website or application for this mini trivia game. (Not Sure yet)
+- Currently working on using Django for my backend
